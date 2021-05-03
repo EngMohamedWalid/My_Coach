@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My_Coach</string>
+    <string name="app_word">Your personal trainer in your pocket</string>
+    <string name="todo">TODO</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">login</string>
+    <string name="creat">Create an account</string>
+</resources>
